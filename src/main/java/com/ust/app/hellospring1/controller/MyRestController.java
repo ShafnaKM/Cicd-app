@@ -13,7 +13,7 @@ public class MyRestController {
 
 	@GetMapping
 	public String sayHello() {
-		return "Hello World....Welcome to Spring Boot ";
+		return "Hello Ikkkaaaa....I love You Sooo soooo Much ";
 	} 
 		@GetMapping("/hello/{username}")
 		public String greet(@PathVariable String username) {
